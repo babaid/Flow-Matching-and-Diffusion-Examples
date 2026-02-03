@@ -4,12 +4,11 @@ This repo contains tutorials/examples of flow matching and diffusion models of d
 To run the code, python 3.10 is required. 
 
 Other packages required are:
-- pytorch 
-- torch_geometric
+- pytorch 2.8
+- torch_geometric 
 - pandas
 - matplotlib
 - rdkit
 - e3nn
 
-I used PyTorch 2.8 for the snippets, with CUDA 12.6, the choice was based on the requirements of torch_geometric (PyTorch < 2.8 ---> Python <=3.10).
-
+Some related repositories are added as git submodules, if needed, run ````git submodule update --init --recursive```` to clone them into the submodules directory.
