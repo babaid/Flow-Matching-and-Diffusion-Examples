@@ -1,3 +1,6 @@
 [submodule "submodules/torsional-diffusion"]
 	path = submodules/torsional-diffusion
 	url = git@github.com:gcorso/torsional-diffusion.git
+[submodule "submodules/riemannian-fm"]
+	path = submodules/riemannian-fm
+	url = git@github.com:facebookresearch/riemannian-fm.git
