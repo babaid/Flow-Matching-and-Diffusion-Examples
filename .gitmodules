@@ -1,0 +1,3 @@
+[submodule "submodules/torsional-diffusion"]
+	path = submodules/torsional-diffusion
+	url = git@github.com:gcorso/torsional-diffusion.git
